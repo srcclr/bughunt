@@ -70,4 +70,4 @@ We may unintentionally have more than the one bug in a challenge. We're only hum
 
 # ChallengeBot Commands
 ChallengeBot is open source. We hope dearly that the hordes of bug hunters we've attracted do not tear it to shreds. You can check it out here:
-https://github.com/sourceclear/challenge_bot
+https://github.com/srcclr/challenge_bot

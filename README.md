@@ -56,7 +56,7 @@ The cleverly named [ExampleChallenge](ExampleChallenge) exists so you can make s
 
 First, you'll need a submission code. Request it with `@srcclr send me my submission code`. Let's assume the submission code is `9b00047237880ae7048120cd90160604`.
 
-Next, append the your submission code to the answer to get `429b00047237880ae7048120cd90160604`.
+Next, append your submission code to the answer to get `429b00047237880ae7048120cd90160604`.
 
 Then, hash it using `echo -n "429b00047237880ae7048120cd90160604" | openssl sha1`.
 The hash is `06770419e472bb356a90c1f7350baec981d0aa26`.

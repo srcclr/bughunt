@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bcrypt (3.1.10)
+    sequel (4.23.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bcrypt (~> 3.1)
+  sequel (~> 4.23)
+
+BUNDLED WITH
+   1.10.5

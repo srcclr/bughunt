@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+gem 'sequel', '~> 4.23'
+gem 'bcrypt', '~> 3.1'
+gem 'sqlite3', '~> 1.3'

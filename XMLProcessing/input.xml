@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE student [
+<!ENTITY greeting "Hello," >
+]>
+<student>
+  <name>&greeting; Joe Smith</name>
+  <course>Masters of Science 2015</course>>
+  <rollNumber>3721</rollNumber>
+  <active>true</active>
+</student>

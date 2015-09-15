@@ -1,4 +1,4 @@
-# [:] BugHunt
+# [:] BugHunt - :beetle::bomb:
 
 ## Description
 This is a contest consisting of weekly challenges. Each challenge is some code with _one_ intentional bug. The goal is to find the bug. Simple! The bug may be a single line, or a contiguous section of code. This is a contest consisting of a new challenge every week. Each directory contains a different challenge. Please note, odious coding style or "unusual" design choices do not count as bugs. Forgive us.
@@ -67,6 +67,16 @@ Finally, submit the answer with `@srcclr submit ExampleChallenge 06770419e472bb3
 
 ## Disputes
 We may unintentionally have more than the one bug in a challenge. We're only human (except ChallengeBot). If you get a challenge wrong, but believe you were right, please feel free to create a GitHub Issue. Explain to us why you think your answer is right. We'll review it and potentially add it as a correct answer. We may also review it and tell you something snarky like "LOL NOPE", indicating we disagree.
+
+## Submitting Challenges
+Check out our [Challenge Submission Guidelines](https://github.com/srcclr/bughunt/wiki/Challenge-Submission-Guidelines).
+
+## Submitting Solutions
+Check out our [Solution Write-Up Guidelines](https://github.com/srcclr/bughunt/wiki/Solution-Write-up-Guidelines).
+
+## Contact
+You can reach us via
+[bughunt@srcclr.com](bughunt@srcclr.com).
 
 # ChallengeBot Commands
 ChallengeBot is open source. We hope dearly that the hordes of bug hunters we've attracted do not tear it to shreds. You can check it out here:
